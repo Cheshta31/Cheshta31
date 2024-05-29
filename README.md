@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, Cheshta here...Thanks for visiting my Profile</h1>
 <h3 align="center">A Philomath of Information Technology Industry</h3>
+<img align="right" alt="Coding" width="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemIwN2V6NmFxNmdwZmx2MXljamxkZWs5dHBuOWJlejR4ODJsMWZieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cheshta31&label=Profile%20views&color=0e75b6&style=flat" alt="cheshta31" /> </p>
 
