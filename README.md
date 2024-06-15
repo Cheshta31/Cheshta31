@@ -8,7 +8,7 @@
 
 - 🌱 Constantly acquiring new technologies and broadening my **understanding of the tech industry.**
 
-- 💬 Ask me about **FrontEnd & Backend Web Development**
+- 💬 Ask me about **Frontend & Backend Web Development**
 
 - 📫 How to reach me **cheshtakhurana31@gmail.com**
 
